@@ -1,0 +1,501 @@
+,exercise_name,crossfit_session_name,type_of_activity,type_of_equipment,body_part,type,muscle_groups_activated,instructions
+0,Cossack Squat,Aerobic Body Building,Warm-up,Dumbbells,Full body,Pull,"Upper Chest, Shoulders",Warm-up adequately before performing this exercise to prevent injury.
+1,Glute-Ham Raises,Gymnastics,Cardio,Medicine Ball,Core,Push,"Lower Back, Core","Ensure your breathing is controlled, exhaling during the exertion phase."
+2,Strict L-Sit Pull-Ups,Aerobic Body Building,Cardio,Bodyweight,Lower body,Pull,"Core, Shoulders",Maintain a strong core throughout the exercise for better stability.
+3,Lunge Twists,Gymnastics,Warm-up,Barbell,Full body,Hold,"Glutes, Hamstrings","Focus on controlling the movement to avoid injury, especially when using heavy weights."
+4,Front Squat,Strength,Strength,Bodyweight,Lower body,Hold,"Upper Chest, Shoulders","Focus on controlling the movement to avoid injury, especially when using heavy weights."
+5,Dumbbell Thrusters,Conditioning,Warm-up,Bodyweight,Full body,Hold,"Glutes, Hamstrings","Make sure to use explosive power when needed, especially for dynamic exercises."
+6,Elevated Pike Push-Up,Conditioning,Mobility,Kettlebell,Core,Push,"Lats, Biceps","Make sure to use explosive power when needed, especially for dynamic exercises."
+7,Glute-Ham Raises,Strength,Warm-up,Resistance Band,Core,Hold,"Chest, Triceps",Start with a lighter weight or progression if you're new to this exercise.
+8,Behind the Neck Jerk,Aerobic Body Building,Mobility,Barbell,Core,Hold,"Lower Back, Core",Maintain a strong core throughout the exercise for better stability.
+9,Plank Hold,Aerobic Body Building,Warm-up,Pull-up Bar,Lower body,Hold,"Lower Back, Core",Stretch before and after this exercise for better mobility and recovery.
+10,Single Leg Box Jump,Crossfit,Warm-up,Kettlebell,Lower body,Stretch,"Chest, Triceps",Stretch before and after this exercise for better mobility and recovery.
+11,Power Jerk,Strength,Mobility,Resistance Band,Lower body,Push,"Quads, Glutes","Make sure to use explosive power when needed, especially for dynamic exercises."
+12,Tire Flips,Aerobic Body Building,Cardio,Dumbbells,Lower body,Push,"Lats, Biceps",Maintain a strong core throughout the exercise for better stability.
+13,Overhead Press,Gymnastics,Cardio,Medicine Ball,Core,Pull,"Hamstrings, Glutes",Maintain a strong core throughout the exercise for better stability.
+14,Weighted Sit-Ups,Crossfit,Warm-up,Kettlebell,Upper body,Stretch,"Biceps, Shoulders",Warm-up adequately before performing this exercise to prevent injury.
+15,Sumo High Pull,Crossfit,Mobility,Bodyweight,Upper body,Stretch,"Upper Chest, Shoulders","Focus on controlling the movement to avoid injury, especially when using heavy weights."
+16,Landmine Squats,Aerobic Body Building,Strength,Resistance Band,Upper body,Stretch,"Core, Shoulders","Make sure to use explosive power when needed, especially for dynamic exercises."
+17,Kettlebell Windmill,Conditioning,Warm-up,Dumbbells,Full body,Stretch,"Shoulders, Triceps","Focus on controlling the movement to avoid injury, especially when using heavy weights."
+18,Reverse Lunges,Conditioning,Strength,Pull-up Bar,Lower body,Pull,"Shoulders, Triceps",Start with a lighter weight or progression if you're new to this exercise.
+19,Jerk Balance,Crossfit,Strength,Dumbbells,Upper body,Pull,"Lats, Biceps","Ensure your breathing is controlled, exhaling during the exertion phase."
+20,Kettlebell Windmill,Crossfit,Mobility,Medicine Ball,Lower body,Pull,"Core, Shoulders",Warm-up adequately before performing this exercise to prevent injury.
+21,Deadlift,Gymnastics,Strength,Medicine Ball,Lower body,Hold,"Core, Shoulders",Perform the movement with a full range of motion while maintaining proper posture.
+22,Split Squats,Strength,Strength,Bodyweight,Core,Stretch,"Biceps, Shoulders",Perform the movement with a full range of motion while maintaining proper posture.
+23,Split Squats,Olympic Weightlifting,Mobility,Dumbbells,Full body,Push,"Quads, Glutes","Ensure your breathing is controlled, exhaling during the exertion phase."
+24,Toe-to-Bar,Conditioning,Mobility,Dumbbells,Full body,Stretch,"Hamstrings, Glutes","Make sure to use explosive power when needed, especially for dynamic exercises."
+25,Windshield Wipers,Strength,Cardio,Barbell,Upper body,Push,"Lower Back, Core",Maintain a strong core throughout the exercise for better stability.
+26,Broad Jumps,Crossfit,Mobility,Kettlebell,Full body,Stretch,"Chest, Triceps",Perform the movement with a full range of motion while maintaining proper posture.
+27,Dumbbell Snatch,Crossfit,Strength,Barbell,Upper body,Stretch,"Lats, Biceps",Maintain a strong core throughout the exercise for better stability.
+28,Front Squat,Strength,Warm-up,Barbell,Core,Stretch,"Glutes, Hamstrings",Warm-up adequately before performing this exercise to prevent injury.
+29,Dumbbell Thrusters,Strength,Strength,Kettlebell,Full body,Hold,"Lower Back, Core",Warm-up adequately before performing this exercise to prevent injury.
+30,Strict Press,Crossfit,Cardio,Pull-up Bar,Upper body,Push,"Hamstrings, Glutes",Warm-up adequately before performing this exercise to prevent injury.
+31,Weighted Step-Ups,Gymnastics,Mobility,Barbell,Lower body,Pull,"Lats, Biceps","Ensure your breathing is controlled, exhaling during the exertion phase."
+32,Decline Push-Ups,Gymnastics,Cardio,Barbell,Upper body,Hold,"Glutes, Hamstrings",Maintain a strong core throughout the exercise for better stability.
+33,Zercher Squats,Aerobic Body Building,Mobility,Dumbbells,Upper body,Pull,"Lower Back, Core","Make sure to use explosive power when needed, especially for dynamic exercises."
+34,Double Dumbbell Deadlift,Crossfit,Warm-up,Barbell,Core,Pull,"Biceps, Shoulders",Warm-up adequately before performing this exercise to prevent injury.
+35,Scapular Push-Ups,Gymnastics,Strength,Kettlebell,Upper body,Pull,"Lower Back, Core","Focus on controlling the movement to avoid injury, especially when using heavy weights."
+36,V-Ups,Conditioning,Warm-up,Bodyweight,Upper body,Pull,"Lats, Biceps",Stretch before and after this exercise for better mobility and recovery.
+37,Kettlebell Snatch,Aerobic Body Building,Mobility,Medicine Ball,Lower body,Stretch,"Shoulders, Triceps",Maintain a strong core throughout the exercise for better stability.
+38,Seated Box Jumps,Olympic Weightlifting,Mobility,Kettlebell,Full body,Pull,"Upper Chest, Shoulders",Keep your back straight and hinge at the hips for proper form.
+39,Scapular Push-Ups,Aerobic Body Building,Mobility,Pull-up Bar,Upper body,Pull,"Biceps, Shoulders","Ensure your breathing is controlled, exhaling during the exertion phase."
+40,Single Arm Snatch,Olympic Weightlifting,Mobility,Medicine Ball,Core,Pull,"Lower Back, Core","Focus on controlling the movement to avoid injury, especially when using heavy weights."
+41,Banded Tricep Pushdowns,Strength,Mobility,Bodyweight,Upper body,Pull,"Lats, Biceps",Keep your back straight and hinge at the hips for proper form.
+42,Wall Ball Sit-Ups,Crossfit,Warm-up,Kettlebell,Core,Stretch,"Lower Back, Core",Perform the movement with a full range of motion while maintaining proper posture.
+43,Inverted Row,Gymnastics,Mobility,Resistance Band,Upper body,Stretch,"Core, Shoulders",Maintain a strong core throughout the exercise for better stability.
+44,Tire Drag,Conditioning,Strength,Dumbbells,Full body,Pull,"Chest, Triceps",Stretch before and after this exercise for better mobility and recovery.
+45,Push Press,Crossfit,Strength,Barbell,Core,Stretch,"Core, Shoulders",Start with a lighter weight or progression if you're new to this exercise.
+46,Tire Drag,Olympic Weightlifting,Cardio,Resistance Band,Upper body,Hold,"Lower Back, Core",Keep your back straight and hinge at the hips for proper form.
+47,Front Squat,Olympic Weightlifting,Warm-up,Dumbbells,Full body,Pull,"Chest, Triceps","Focus on controlling the movement to avoid injury, especially when using heavy weights."
+48,Zercher Squats,Conditioning,Warm-up,Medicine Ball,Lower body,Hold,"Shoulders, Triceps",Start with a lighter weight or progression if you're new to this exercise.
+49,Split Snatch,Gymnastics,Mobility,Resistance Band,Full body,Stretch,"Biceps, Shoulders",Start with a lighter weight or progression if you're new to this exercise.
+50,AbMat Sit-Ups,Crossfit,Mobility,Medicine Ball,Lower body,Stretch,"Core, Shoulders",Perform the movement with a full range of motion while maintaining proper posture.
+51,Deadlift,Crossfit,Cardio,Medicine Ball,Upper body,Hold,"Upper Chest, Shoulders",Keep your back straight and hinge at the hips for proper form.
+52,Thrusters,Aerobic Body Building,Cardio,Barbell,Lower body,Push,"Hamstrings, Glutes","Focus on controlling the movement to avoid injury, especially when using heavy weights."
+53,V-Bar Pull-Ups,Strength,Warm-up,Barbell,Upper body,Pull,"Chest, Triceps",Start with a lighter weight or progression if you're new to this exercise.
+54,Strict T2B,Crossfit,Mobility,Barbell,Upper body,Hold,"Lats, Biceps",Perform the movement with a full range of motion while maintaining proper posture.
+55,Rowing,Strength,Strength,Barbell,Full body,Push,"Quads, Glutes",Maintain a strong core throughout the exercise for better stability.
+56,Rope Jumping,Conditioning,Warm-up,Kettlebell,Core,Push,"Quads, Glutes",Start with a lighter weight or progression if you're new to this exercise.
+57,Sled Drag,Crossfit,Cardio,Bodyweight,Lower body,Pull,"Upper Chest, Shoulders",Perform the movement with a full range of motion while maintaining proper posture.
+58,Front Rack Lunge,Crossfit,Warm-up,Barbell,Lower body,Push,"Glutes, Hamstrings",Stretch before and after this exercise for better mobility and recovery.
+59,Wall Ball Sit-Ups,Aerobic Body Building,Cardio,Barbell,Core,Push,"Hamstrings, Glutes",Maintain a strong core throughout the exercise for better stability.
+60,Strict Muscle-Up,Strength,Warm-up,Bodyweight,Core,Hold,"Shoulders, Triceps","Ensure your breathing is controlled, exhaling during the exertion phase."
+61,Cossack Squat,Strength,Mobility,Barbell,Upper body,Pull,"Glutes, Hamstrings",Stretch before and after this exercise for better mobility and recovery.
+62,Kettlebell Turkish Get-Up,Conditioning,Strength,Kettlebell,Core,Hold,"Hamstrings, Glutes",Start with a lighter weight or progression if you're new to this exercise.
+63,V-Bar Pull-Ups,Strength,Mobility,Medicine Ball,Full body,Push,"Shoulders, Triceps","Make sure to use explosive power when needed, especially for dynamic exercises."
+64,Russian Twists,Gymnastics,Cardio,Barbell,Full body,Push,"Upper Chest, Shoulders",Warm-up adequately before performing this exercise to prevent injury.
+65,Farmer's Carry,Crossfit,Cardio,Medicine Ball,Full body,Pull,"Hamstrings, Glutes","Focus on controlling the movement to avoid injury, especially when using heavy weights."
+66,Sled Pull,Gymnastics,Warm-up,Medicine Ball,Full body,Stretch,"Hamstrings, Glutes",Maintain a strong core throughout the exercise for better stability.
+67,Incline Bench Press,Conditioning,Strength,Dumbbells,Upper body,Hold,"Upper Chest, Shoulders",Stretch before and after this exercise for better mobility and recovery.
+68,Front Rack Lunge,Aerobic Body Building,Strength,Pull-up Bar,Upper body,Stretch,"Biceps, Shoulders",Perform the movement with a full range of motion while maintaining proper posture.
+69,Bulgarian Split Squats,Strength,Cardio,Medicine Ball,Upper body,Hold,"Upper Chest, Shoulders",Start with a lighter weight or progression if you're new to this exercise.
+70,Pike Push-Ups,Strength,Cardio,Pull-up Bar,Upper body,Stretch,"Chest, Triceps","Make sure to use explosive power when needed, especially for dynamic exercises."
+71,Pistol Hold,Strength,Strength,Bodyweight,Upper body,Hold,"Upper Chest, Shoulders",Stretch before and after this exercise for better mobility and recovery.
+72,Step-Ups,Conditioning,Strength,Resistance Band,Core,Stretch,"Upper Chest, Shoulders","Focus on controlling the movement to avoid injury, especially when using heavy weights."
+73,Dumbbell Power Clean,Olympic Weightlifting,Cardio,Barbell,Full body,Push,"Glutes, Hamstrings","Ensure your breathing is controlled, exhaling during the exertion phase."
+74,Tire Drag,Olympic Weightlifting,Mobility,Dumbbells,Upper body,Hold,"Lower Back, Core",Keep your back straight and hinge at the hips for proper form.
+75,Box Squat,Strength,Strength,Dumbbells,Full body,Pull,"Upper Chest, Shoulders","Ensure your breathing is controlled, exhaling during the exertion phase."
+76,Rope Climbs with Holds,Strength,Strength,Resistance Band,Core,Stretch,"Hamstrings, Glutes",Perform the movement with a full range of motion while maintaining proper posture.
+77,Jerk Balance,Aerobic Body Building,Warm-up,Resistance Band,Full body,Pull,"Chest, Triceps",Stretch before and after this exercise for better mobility and recovery.
+78,Hollow Body to Superman,Strength,Strength,Kettlebell,Full body,Push,"Biceps, Shoulders",Stretch before and after this exercise for better mobility and recovery.
+79,Sandbag Squats,Aerobic Body Building,Mobility,Pull-up Bar,Core,Stretch,"Shoulders, Triceps",Maintain a strong core throughout the exercise for better stability.
+80,Sledgehammer Slams,Crossfit,Cardio,Kettlebell,Lower body,Pull,"Lats, Biceps",Perform the movement with a full range of motion while maintaining proper posture.
+81,Overhead Squat,Conditioning,Cardio,Resistance Band,Full body,Pull,"Biceps, Shoulders",Warm-up adequately before performing this exercise to prevent injury.
+82,Pistol Hold,Aerobic Body Building,Strength,Bodyweight,Lower body,Pull,"Core, Shoulders",Warm-up adequately before performing this exercise to prevent injury.
+83,Deadlift,Olympic Weightlifting,Warm-up,Pull-up Bar,Core,Hold,"Lower Back, Core","Make sure to use explosive power when needed, especially for dynamic exercises."
+84,Scapular Pull-Up,Strength,Strength,Kettlebell,Core,Stretch,"Core, Shoulders",Stretch before and after this exercise for better mobility and recovery.
+85,Weighted Pistol Squat,Conditioning,Mobility,Pull-up Bar,Upper body,Stretch,"Shoulders, Triceps","Ensure your breathing is controlled, exhaling during the exertion phase."
+86,Thrusters,Aerobic Body Building,Cardio,Medicine Ball,Full body,Push,"Upper Chest, Shoulders","Focus on controlling the movement to avoid injury, especially when using heavy weights."
+87,Good Mornings,Crossfit,Strength,Bodyweight,Core,Hold,"Lats, Biceps",Warm-up adequately before performing this exercise to prevent injury.
+88,One Arm Dumbbell Snatch,Gymnastics,Cardio,Barbell,Upper body,Pull,"Glutes, Hamstrings",Perform the movement with a full range of motion while maintaining proper posture.
+89,Barbell Front Rack Carry,Strength,Mobility,Medicine Ball,Core,Stretch,"Hamstrings, Glutes",Keep your back straight and hinge at the hips for proper form.
+90,One Arm Dumbbell Snatch,Crossfit,Warm-up,Medicine Ball,Lower body,Hold,"Chest, Triceps",Keep your back straight and hinge at the hips for proper form.
+91,Snatch,Conditioning,Warm-up,Resistance Band,Core,Pull,"Shoulders, Triceps","Ensure your breathing is controlled, exhaling during the exertion phase."
+92,Barbell Thruster,Strength,Strength,Pull-up Bar,Core,Hold,"Lats, Biceps",Maintain a strong core throughout the exercise for better stability.
+93,Broad Jumps,Conditioning,Mobility,Bodyweight,Full body,Pull,"Hamstrings, Glutes",Perform the movement with a full range of motion while maintaining proper posture.
+94,Inverted Shoulder Press,Conditioning,Mobility,Medicine Ball,Full body,Pull,"Lats, Biceps",Stretch before and after this exercise for better mobility and recovery.
+95,Farmer Walk with Dumbbells,Olympic Weightlifting,Strength,Medicine Ball,Full body,Hold,"Glutes, Hamstrings",Warm-up adequately before performing this exercise to prevent injury.
+96,Bear Crawl Drags,Conditioning,Warm-up,Medicine Ball,Core,Push,"Chest, Triceps",Warm-up adequately before performing this exercise to prevent injury.
+97,Sandbag Squats,Olympic Weightlifting,Warm-up,Pull-up Bar,Lower body,Pull,"Glutes, Hamstrings",Maintain a strong core throughout the exercise for better stability.
+98,Overhead Press,Olympic Weightlifting,Strength,Barbell,Upper body,Hold,"Lats, Biceps",Perform the movement with a full range of motion while maintaining proper posture.
+99,Weighted Vest Burpees,Olympic Weightlifting,Warm-up,Barbell,Upper body,Hold,"Hamstrings, Glutes",Stretch before and after this exercise for better mobility and recovery.
+100,Floor Press,Gymnastics,Strength,Pull-up Bar,Core,Stretch,"Biceps, Shoulders","Focus on controlling the movement to avoid injury, especially when using heavy weights."
+101,Decline Push-Ups,Crossfit,Warm-up,Pull-up Bar,Core,Hold,"Biceps, Shoulders",Start with a lighter weight or progression if you're new to this exercise.
+102,Dumbbell Deadlift,Gymnastics,Mobility,Pull-up Bar,Lower body,Pull,"Chest, Triceps","Ensure your breathing is controlled, exhaling during the exertion phase."
+103,Plank Hold,Olympic Weightlifting,Mobility,Kettlebell,Full body,Hold,"Core, Shoulders",Start with a lighter weight or progression if you're new to this exercise.
+104,Pistol Hold,Gymnastics,Strength,Bodyweight,Core,Push,"Glutes, Hamstrings","Focus on controlling the movement to avoid injury, especially when using heavy weights."
+105,Strict Ring Muscle-Ups,Gymnastics,Strength,Dumbbells,Upper body,Pull,"Quads, Glutes","Ensure your breathing is controlled, exhaling during the exertion phase."
+106,Clapping Push-Ups,Olympic Weightlifting,Strength,Medicine Ball,Core,Pull,"Quads, Glutes","Ensure your breathing is controlled, exhaling during the exertion phase."
+107,Pistol Hold,Olympic Weightlifting,Mobility,Medicine Ball,Core,Stretch,"Chest, Triceps",Stretch before and after this exercise for better mobility and recovery.
+108,Air Squats,Gymnastics,Cardio,Resistance Band,Full body,Push,"Hamstrings, Glutes","Ensure your breathing is controlled, exhaling during the exertion phase."
+109,Push-Up Claps,Gymnastics,Warm-up,Medicine Ball,Upper body,Hold,"Quads, Glutes","Make sure to use explosive power when needed, especially for dynamic exercises."
+110,Kettlebell Swings,Conditioning,Mobility,Barbell,Lower body,Pull,"Core, Shoulders",Maintain a strong core throughout the exercise for better stability.
+111,Strict Press,Strength,Mobility,Medicine Ball,Upper body,Hold,"Hamstrings, Glutes",Warm-up adequately before performing this exercise to prevent injury.
+112,Kettlebell Turkish Get-Up,Conditioning,Strength,Barbell,Lower body,Pull,"Chest, Triceps",Stretch before and after this exercise for better mobility and recovery.
+113,Hang Power Snatch,Conditioning,Mobility,Pull-up Bar,Upper body,Stretch,"Glutes, Hamstrings",Start with a lighter weight or progression if you're new to this exercise.
+114,Jump Rope,Gymnastics,Warm-up,Dumbbells,Core,Stretch,"Biceps, Shoulders",Keep your back straight and hinge at the hips for proper form.
+115,Incline Bench Press,Gymnastics,Warm-up,Resistance Band,Upper body,Push,"Chest, Triceps",Perform the movement with a full range of motion while maintaining proper posture.
+116,Dumbbell Walking Lunge,Strength,Strength,Dumbbells,Upper body,Pull,"Quads, Glutes",Maintain a strong core throughout the exercise for better stability.
+117,Broad Jumps,Conditioning,Mobility,Kettlebell,Lower body,Pull,"Core, Shoulders","Focus on controlling the movement to avoid injury, especially when using heavy weights."
+118,Straight Leg Deadlift,Aerobic Body Building,Warm-up,Kettlebell,Lower body,Pull,"Core, Shoulders",Keep your back straight and hinge at the hips for proper form.
+119,Band-Assisted Pull-Ups,Crossfit,Mobility,Bodyweight,Upper body,Pull,"Shoulders, Triceps","Make sure to use explosive power when needed, especially for dynamic exercises."
+120,Explosive Push-Ups,Crossfit,Warm-up,Bodyweight,Core,Push,"Quads, Glutes","Make sure to use explosive power when needed, especially for dynamic exercises."
+121,Power Jerk,Aerobic Body Building,Warm-up,Pull-up Bar,Full body,Hold,"Biceps, Shoulders","Ensure your breathing is controlled, exhaling during the exertion phase."
+122,Front Squat,Gymnastics,Warm-up,Resistance Band,Lower body,Hold,"Glutes, Hamstrings",Stretch before and after this exercise for better mobility and recovery.
+123,Seated Row,Strength,Warm-up,Dumbbells,Core,Stretch,"Lower Back, Core","Ensure your breathing is controlled, exhaling during the exertion phase."
+124,Sandbag Carry,Gymnastics,Cardio,Bodyweight,Lower body,Stretch,"Chest, Triceps",Warm-up adequately before performing this exercise to prevent injury.
+125,Pistol Hold,Strength,Mobility,Barbell,Core,Stretch,"Lower Back, Core",Warm-up adequately before performing this exercise to prevent injury.
+126,Wall Balls,Conditioning,Mobility,Medicine Ball,Lower body,Push,"Shoulders, Triceps",Keep your back straight and hinge at the hips for proper form.
+127,Box Jumps,Conditioning,Strength,Pull-up Bar,Full body,Push,"Chest, Triceps",Warm-up adequately before performing this exercise to prevent injury.
+128,Turkish Sit-Up,Aerobic Body Building,Mobility,Barbell,Upper body,Pull,"Glutes, Hamstrings","Ensure your breathing is controlled, exhaling during the exertion phase."
+129,Sledgehammer Slams,Gymnastics,Warm-up,Kettlebell,Upper body,Stretch,"Upper Chest, Shoulders",Warm-up adequately before performing this exercise to prevent injury.
+130,Kipping Pull-Ups,Conditioning,Strength,Resistance Band,Full body,Pull,"Shoulders, Triceps","Focus on controlling the movement to avoid injury, especially when using heavy weights."
+131,Sledgehammer Slams,Olympic Weightlifting,Strength,Bodyweight,Full body,Hold,"Hamstrings, Glutes",Maintain a strong core throughout the exercise for better stability.
+132,Handstand Hold,Aerobic Body Building,Strength,Medicine Ball,Lower body,Hold,"Hamstrings, Glutes","Make sure to use explosive power when needed, especially for dynamic exercises."
+133,Good Mornings,Aerobic Body Building,Cardio,Pull-up Bar,Core,Hold,"Lower Back, Core",Start with a lighter weight or progression if you're new to this exercise.
+134,Deficit Deadlift,Olympic Weightlifting,Warm-up,Medicine Ball,Lower body,Hold,"Upper Chest, Shoulders",Perform the movement with a full range of motion while maintaining proper posture.
+135,Single Arm Snatch,Conditioning,Cardio,Kettlebell,Full body,Push,"Lower Back, Core",Start with a lighter weight or progression if you're new to this exercise.
+136,Deficit Deadlift,Gymnastics,Cardio,Kettlebell,Core,Pull,"Lower Back, Core","Focus on controlling the movement to avoid injury, especially when using heavy weights."
+137,Double Dumbbell Deadlift,Conditioning,Cardio,Resistance Band,Lower body,Push,"Glutes, Hamstrings",Start with a lighter weight or progression if you're new to this exercise.
+138,Hang Power Snatch,Olympic Weightlifting,Mobility,Medicine Ball,Upper body,Stretch,"Quads, Glutes",Start with a lighter weight or progression if you're new to this exercise.
+139,Turkish Sit-Up,Strength,Strength,Bodyweight,Lower body,Hold,"Glutes, Hamstrings","Make sure to use explosive power when needed, especially for dynamic exercises."
+140,Jerk Balance,Strength,Cardio,Dumbbells,Full body,Hold,"Shoulders, Triceps","Focus on controlling the movement to avoid injury, especially when using heavy weights."
+141,Overhead Press,Gymnastics,Strength,Medicine Ball,Lower body,Push,"Biceps, Shoulders",Warm-up adequately before performing this exercise to prevent injury.
+142,Deficit Push-Ups,Gymnastics,Strength,Medicine Ball,Upper body,Push,"Chest, Triceps",Maintain a strong core throughout the exercise for better stability.
+143,Wall Ball Cleans,Aerobic Body Building,Mobility,Medicine Ball,Lower body,Stretch,"Lower Back, Core",Start with a lighter weight or progression if you're new to this exercise.
+144,Split Squats,Conditioning,Mobility,Barbell,Lower body,Stretch,"Lower Back, Core",Perform the movement with a full range of motion while maintaining proper posture.
+145,Lunge Twists,Conditioning,Warm-up,Resistance Band,Upper body,Stretch,"Glutes, Hamstrings",Stretch before and after this exercise for better mobility and recovery.
+146,Superman Hold,Strength,Strength,Barbell,Core,Push,"Shoulders, Triceps",Warm-up adequately before performing this exercise to prevent injury.
+147,Tire Drag,Strength,Mobility,Dumbbells,Lower body,Pull,"Lats, Biceps","Make sure to use explosive power when needed, especially for dynamic exercises."
+148,Snatch,Crossfit,Cardio,Dumbbells,Full body,Push,"Hamstrings, Glutes",Maintain a strong core throughout the exercise for better stability.
+149,Weighted Roll-Outs,Gymnastics,Cardio,Bodyweight,Lower body,Pull,"Chest, Triceps","Make sure to use explosive power when needed, especially for dynamic exercises."
+150,Wall Balls,Aerobic Body Building,Strength,Pull-up Bar,Lower body,Hold,"Core, Shoulders","Make sure to use explosive power when needed, especially for dynamic exercises."
+151,Pull-ups,Olympic Weightlifting,Mobility,Kettlebell,Lower body,Stretch,"Upper Chest, Shoulders",Keep your back straight and hinge at the hips for proper form.
+152,Front Squat,Olympic Weightlifting,Mobility,Barbell,Upper body,Pull,"Hamstrings, Glutes","Make sure to use explosive power when needed, especially for dynamic exercises."
+153,Overhead Squat,Gymnastics,Mobility,Barbell,Lower body,Hold,"Chest, Triceps",Perform the movement with a full range of motion while maintaining proper posture.
+154,Reverse Hyper,Aerobic Body Building,Cardio,Medicine Ball,Core,Hold,"Core, Shoulders",Perform the movement with a full range of motion while maintaining proper posture.
+155,Toes to Rings,Conditioning,Warm-up,Dumbbells,Upper body,Stretch,"Lats, Biceps",Start with a lighter weight or progression if you're new to this exercise.
+156,Banded Good Mornings,Gymnastics,Warm-up,Bodyweight,Upper body,Hold,"Biceps, Shoulders","Make sure to use explosive power when needed, especially for dynamic exercises."
+157,Bar Muscle-Ups,Olympic Weightlifting,Warm-up,Medicine Ball,Core,Pull,"Quads, Glutes",Keep your back straight and hinge at the hips for proper form.
+158,Sled Push,Conditioning,Cardio,Resistance Band,Upper body,Push,"Shoulders, Triceps","Make sure to use explosive power when needed, especially for dynamic exercises."
+159,Superman Hold,Strength,Strength,Medicine Ball,Core,Hold,"Hamstrings, Glutes",Stretch before and after this exercise for better mobility and recovery.
+160,Kettlebell Figure 8,Crossfit,Mobility,Resistance Band,Upper body,Pull,"Lats, Biceps",Stretch before and after this exercise for better mobility and recovery.
+161,Barbell Thruster,Gymnastics,Mobility,Bodyweight,Upper body,Push,"Quads, Glutes",Keep your back straight and hinge at the hips for proper form.
+162,High Pull,Gymnastics,Strength,Resistance Band,Upper body,Stretch,"Chest, Triceps",Warm-up adequately before performing this exercise to prevent injury.
+163,Hollow Rock,Gymnastics,Mobility,Medicine Ball,Lower body,Stretch,"Lats, Biceps","Ensure your breathing is controlled, exhaling during the exertion phase."
+164,Overhead Carries,Olympic Weightlifting,Mobility,Resistance Band,Full body,Stretch,"Lats, Biceps",Perform the movement with a full range of motion while maintaining proper posture.
+165,Overhead Kettlebell Squats,Crossfit,Strength,Medicine Ball,Upper body,Pull,"Glutes, Hamstrings","Focus on controlling the movement to avoid injury, especially when using heavy weights."
+166,Seated Kettlebell Press,Aerobic Body Building,Mobility,Kettlebell,Upper body,Hold,"Lats, Biceps","Ensure your breathing is controlled, exhaling during the exertion phase."
+167,Squat Snatch,Crossfit,Warm-up,Kettlebell,Upper body,Pull,"Upper Chest, Shoulders",Maintain a strong core throughout the exercise for better stability.
+168,Seated Kettlebell Press,Strength,Strength,Barbell,Upper body,Stretch,"Hamstrings, Glutes",Start with a lighter weight or progression if you're new to this exercise.
+169,Box Handstand Push-Up,Conditioning,Warm-up,Pull-up Bar,Upper body,Pull,"Chest, Triceps",Keep your back straight and hinge at the hips for proper form.
+170,Squat Snatch,Gymnastics,Cardio,Barbell,Full body,Stretch,"Upper Chest, Shoulders",Stretch before and after this exercise for better mobility and recovery.
+171,Axle Bar Deadlift,Conditioning,Warm-up,Resistance Band,Core,Hold,"Biceps, Shoulders","Make sure to use explosive power when needed, especially for dynamic exercises."
+172,Tire Flips,Crossfit,Cardio,Bodyweight,Core,Stretch,"Lats, Biceps","Ensure your breathing is controlled, exhaling during the exertion phase."
+173,Dumbbell Deadlift,Aerobic Body Building,Cardio,Barbell,Lower body,Stretch,"Quads, Glutes",Start with a lighter weight or progression if you're new to this exercise.
+174,Barbell Lunges,Gymnastics,Strength,Bodyweight,Core,Pull,"Biceps, Shoulders",Start with a lighter weight or progression if you're new to this exercise.
+175,Jerk Balance,Olympic Weightlifting,Warm-up,Dumbbells,Upper body,Stretch,"Lats, Biceps",Start with a lighter weight or progression if you're new to this exercise.
+176,Weighted Pistol Squat,Aerobic Body Building,Strength,Barbell,Full body,Push,"Quads, Glutes",Maintain a strong core throughout the exercise for better stability.
+177,Bulgarian Split Squats,Crossfit,Cardio,Medicine Ball,Core,Stretch,"Core, Shoulders","Ensure your breathing is controlled, exhaling during the exertion phase."
+178,Handstand Hold,Crossfit,Warm-up,Resistance Band,Upper body,Hold,"Chest, Triceps",Stretch before and after this exercise for better mobility and recovery.
+179,Overhead Kettlebell Squats,Gymnastics,Mobility,Kettlebell,Upper body,Pull,"Glutes, Hamstrings","Make sure to use explosive power when needed, especially for dynamic exercises."
+180,Zercher Squats,Strength,Cardio,Bodyweight,Upper body,Stretch,"Upper Chest, Shoulders",Keep your back straight and hinge at the hips for proper form.
+181,Alternating Dumbbell Snatch,Gymnastics,Strength,Resistance Band,Upper body,Push,"Hamstrings, Glutes",Maintain a strong core throughout the exercise for better stability.
+182,Snatch Balance,Conditioning,Mobility,Dumbbells,Full body,Pull,"Chest, Triceps","Ensure your breathing is controlled, exhaling during the exertion phase."
+183,Ring Muscle-Ups,Conditioning,Warm-up,Bodyweight,Core,Pull,"Hamstrings, Glutes","Focus on controlling the movement to avoid injury, especially when using heavy weights."
+184,Toes to Rings,Conditioning,Warm-up,Barbell,Upper body,Push,"Upper Chest, Shoulders","Ensure your breathing is controlled, exhaling during the exertion phase."
+185,Kettlebell Turkish Get-Up,Gymnastics,Warm-up,Dumbbells,Upper body,Stretch,"Shoulders, Triceps",Stretch before and after this exercise for better mobility and recovery.
+186,Prowler Push/Pull,Gymnastics,Warm-up,Pull-up Bar,Full body,Stretch,"Biceps, Shoulders",Keep your back straight and hinge at the hips for proper form.
+187,Pistol Hold,Olympic Weightlifting,Warm-up,Dumbbells,Full body,Hold,"Glutes, Hamstrings",Keep your back straight and hinge at the hips for proper form.
+188,Ring Muscle-Ups,Gymnastics,Mobility,Medicine Ball,Core,Pull,"Glutes, Hamstrings",Perform the movement with a full range of motion while maintaining proper posture.
+189,Goblet Squat,Conditioning,Strength,Medicine Ball,Lower body,Pull,"Lower Back, Core",Start with a lighter weight or progression if you're new to this exercise.
+190,Explosive Push-Ups,Strength,Strength,Barbell,Full body,Pull,"Biceps, Shoulders",Maintain a strong core throughout the exercise for better stability.
+191,Bodyweight Squat Hold,Conditioning,Strength,Pull-up Bar,Upper body,Hold,"Upper Chest, Shoulders","Ensure your breathing is controlled, exhaling during the exertion phase."
+192,Scapular Push-Ups,Crossfit,Mobility,Kettlebell,Full body,Pull,"Lats, Biceps",Keep your back straight and hinge at the hips for proper form.
+193,Deadlift,Crossfit,Mobility,Barbell,Upper body,Hold,"Shoulders, Triceps","Make sure to use explosive power when needed, especially for dynamic exercises."
+194,Lying Leg Raise,Strength,Cardio,Bodyweight,Upper body,Push,"Lats, Biceps",Stretch before and after this exercise for better mobility and recovery.
+195,Legless Rope Climb,Aerobic Body Building,Warm-up,Kettlebell,Lower body,Hold,"Upper Chest, Shoulders",Maintain a strong core throughout the exercise for better stability.
+196,Double KB Deadlift,Crossfit,Mobility,Bodyweight,Lower body,Pull,"Hamstrings, Glutes",Perform the movement with a full range of motion while maintaining proper posture.
+197,Hang Power Clean,Strength,Warm-up,Medicine Ball,Lower body,Stretch,"Core, Shoulders",Perform the movement with a full range of motion while maintaining proper posture.
+198,Handstand Hold,Olympic Weightlifting,Cardio,Resistance Band,Lower body,Stretch,"Chest, Triceps",Stretch before and after this exercise for better mobility and recovery.
+199,Weighted Vest Burpees,Conditioning,Cardio,Resistance Band,Upper body,Push,"Glutes, Hamstrings",Keep your back straight and hinge at the hips for proper form.
+200,Box Handstand Push-Up,Gymnastics,Warm-up,Resistance Band,Full body,Push,"Shoulders, Triceps","Make sure to use explosive power when needed, especially for dynamic exercises."
+201,Bodyweight Squat Hold,Strength,Strength,Kettlebell,Upper body,Push,"Quads, Glutes",Warm-up adequately before performing this exercise to prevent injury.
+202,Plank to Push-up,Olympic Weightlifting,Warm-up,Bodyweight,Lower body,Push,"Hamstrings, Glutes",Stretch before and after this exercise for better mobility and recovery.
+203,Front Squat,Gymnastics,Strength,Medicine Ball,Core,Hold,"Glutes, Hamstrings",Stretch before and after this exercise for better mobility and recovery.
+204,Lateral Box Jumps,Olympic Weightlifting,Mobility,Medicine Ball,Core,Pull,"Upper Chest, Shoulders",Stretch before and after this exercise for better mobility and recovery.
+205,Behind the Neck Press,Strength,Cardio,Barbell,Full body,Push,"Chest, Triceps","Make sure to use explosive power when needed, especially for dynamic exercises."
+206,Plank Hold,Crossfit,Mobility,Medicine Ball,Upper body,Stretch,"Biceps, Shoulders","Make sure to use explosive power when needed, especially for dynamic exercises."
+207,Chest to Bar Pull-Ups,Olympic Weightlifting,Mobility,Pull-up Bar,Core,Stretch,"Hamstrings, Glutes",Keep your back straight and hinge at the hips for proper form.
+208,Broad Jump Burpees,Conditioning,Strength,Pull-up Bar,Full body,Stretch,"Chest, Triceps",Stretch before and after this exercise for better mobility and recovery.
+209,Inverted Row,Crossfit,Mobility,Pull-up Bar,Upper body,Push,"Lower Back, Core","Make sure to use explosive power when needed, especially for dynamic exercises."
+210,Rope Climbs with Holds,Crossfit,Warm-up,Dumbbells,Lower body,Stretch,"Quads, Glutes","Make sure to use explosive power when needed, especially for dynamic exercises."
+211,Lying Leg Raise,Crossfit,Cardio,Resistance Band,Lower body,Push,"Glutes, Hamstrings",Warm-up adequately before performing this exercise to prevent injury.
+212,Wall Ball Sit-Ups,Gymnastics,Cardio,Pull-up Bar,Core,Pull,"Quads, Glutes",Start with a lighter weight or progression if you're new to this exercise.
+213,Step-Ups,Strength,Mobility,Kettlebell,Core,Pull,"Glutes, Hamstrings",Stretch before and after this exercise for better mobility and recovery.
+214,Bar Muscle-Ups,Olympic Weightlifting,Strength,Bodyweight,Core,Stretch,"Biceps, Shoulders",Keep your back straight and hinge at the hips for proper form.
+215,Box Step-Overs,Aerobic Body Building,Strength,Medicine Ball,Upper body,Push,"Biceps, Shoulders",Warm-up adequately before performing this exercise to prevent injury.
+216,Dumbbell Overhead Press,Crossfit,Warm-up,Pull-up Bar,Upper body,Pull,"Upper Chest, Shoulders","Focus on controlling the movement to avoid injury, especially when using heavy weights."
+217,Sled Pull,Strength,Strength,Dumbbells,Core,Pull,"Chest, Triceps",Keep your back straight and hinge at the hips for proper form.
+218,Side Plank Hold,Olympic Weightlifting,Warm-up,Pull-up Bar,Core,Push,"Core, Shoulders",Maintain a strong core throughout the exercise for better stability.
+219,Turkish Get-Up,Strength,Warm-up,Resistance Band,Upper body,Pull,"Hamstrings, Glutes",Start with a lighter weight or progression if you're new to this exercise.
+220,Reverse Lunges,Gymnastics,Mobility,Pull-up Bar,Full body,Pull,"Biceps, Shoulders",Start with a lighter weight or progression if you're new to this exercise.
+221,Ring Dips,Aerobic Body Building,Strength,Kettlebell,Core,Stretch,"Lower Back, Core",Stretch before and after this exercise for better mobility and recovery.
+222,Pistol Hold,Crossfit,Cardio,Bodyweight,Core,Push,"Chest, Triceps","Focus on controlling the movement to avoid injury, especially when using heavy weights."
+223,Cleans,Strength,Cardio,Resistance Band,Lower body,Hold,"Chest, Triceps","Make sure to use explosive power when needed, especially for dynamic exercises."
+224,Jerk Balance,Olympic Weightlifting,Mobility,Kettlebell,Upper body,Pull,"Core, Shoulders",Keep your back straight and hinge at the hips for proper form.
+225,Sandbag Carry,Crossfit,Warm-up,Pull-up Bar,Lower body,Pull,"Shoulders, Triceps",Start with a lighter weight or progression if you're new to this exercise.
+226,Ring Dips,Aerobic Body Building,Cardio,Dumbbells,Upper body,Stretch,"Hamstrings, Glutes",Keep your back straight and hinge at the hips for proper form.
+227,Alternating Dumbbell Snatch,Aerobic Body Building,Mobility,Medicine Ball,Core,Stretch,"Shoulders, Triceps",Stretch before and after this exercise for better mobility and recovery.
+228,Single Arm Kettlebell Press,Gymnastics,Warm-up,Medicine Ball,Core,Push,"Lower Back, Core",Keep your back straight and hinge at the hips for proper form.
+229,Single Arm Kettlebell Press,Aerobic Body Building,Mobility,Barbell,Upper body,Push,"Quads, Glutes","Focus on controlling the movement to avoid injury, especially when using heavy weights."
+230,Deficit Deadlift,Olympic Weightlifting,Cardio,Barbell,Lower body,Push,"Lats, Biceps","Ensure your breathing is controlled, exhaling during the exertion phase."
+231,Plank Hold,Strength,Cardio,Bodyweight,Upper body,Pull,"Hamstrings, Glutes","Make sure to use explosive power when needed, especially for dynamic exercises."
+232,Rower Sprints,Conditioning,Cardio,Pull-up Bar,Core,Push,"Lower Back, Core","Make sure to use explosive power when needed, especially for dynamic exercises."
+233,Ski Erg Sprints,Conditioning,Warm-up,Pull-up Bar,Upper body,Hold,"Upper Chest, Shoulders",Start with a lighter weight or progression if you're new to this exercise.
+234,Broad Jumps,Conditioning,Warm-up,Barbell,Upper body,Hold,"Quads, Glutes","Make sure to use explosive power when needed, especially for dynamic exercises."
+235,Single Arm Overhead Walking Lunges,Strength,Mobility,Bodyweight,Full body,Stretch,"Chest, Triceps",Maintain a strong core throughout the exercise for better stability.
+236,Hang Power Snatch,Gymnastics,Strength,Kettlebell,Full body,Stretch,"Lats, Biceps",Start with a lighter weight or progression if you're new to this exercise.
+237,Lateral Lunges,Olympic Weightlifting,Cardio,Bodyweight,Core,Pull,"Hamstrings, Glutes",Perform the movement with a full range of motion while maintaining proper posture.
+238,Rower Sprints,Crossfit,Strength,Dumbbells,Full body,Pull,"Lower Back, Core",Perform the movement with a full range of motion while maintaining proper posture.
+239,Prowler Push,Olympic Weightlifting,Warm-up,Medicine Ball,Full body,Stretch,"Upper Chest, Shoulders",Perform the movement with a full range of motion while maintaining proper posture.
+240,Single Arm Ring Row,Strength,Strength,Dumbbells,Core,Pull,"Upper Chest, Shoulders",Warm-up adequately before performing this exercise to prevent injury.
+241,Alternating Dumbbell Snatch,Gymnastics,Mobility,Pull-up Bar,Upper body,Pull,"Glutes, Hamstrings",Start with a lighter weight or progression if you're new to this exercise.
+242,Russian Twists,Olympic Weightlifting,Strength,Resistance Band,Lower body,Pull,"Shoulders, Triceps",Maintain a strong core throughout the exercise for better stability.
+243,Broad Jump Burpees,Strength,Warm-up,Kettlebell,Upper body,Push,"Quads, Glutes",Stretch before and after this exercise for better mobility and recovery.
+244,Straight Leg Deadlift,Strength,Mobility,Pull-up Bar,Core,Hold,"Shoulders, Triceps",Perform the movement with a full range of motion while maintaining proper posture.
+245,Banded Squat Jumps,Conditioning,Strength,Medicine Ball,Upper body,Push,"Lats, Biceps","Make sure to use explosive power when needed, especially for dynamic exercises."
+246,Deficit Deadlift,Olympic Weightlifting,Cardio,Pull-up Bar,Full body,Pull,"Core, Shoulders",Warm-up adequately before performing this exercise to prevent injury.
+247,Bear Crawl,Crossfit,Strength,Barbell,Full body,Hold,"Lower Back, Core","Ensure your breathing is controlled, exhaling during the exertion phase."
+248,High Pull,Crossfit,Strength,Pull-up Bar,Upper body,Push,"Lats, Biceps","Focus on controlling the movement to avoid injury, especially when using heavy weights."
+249,Weighted Sit-Ups,Crossfit,Strength,Resistance Band,Lower body,Push,"Glutes, Hamstrings","Make sure to use explosive power when needed, especially for dynamic exercises."
+250,Hang Cleans,Conditioning,Cardio,Kettlebell,Lower body,Push,"Hamstrings, Glutes",Keep your back straight and hinge at the hips for proper form.
+251,Kettlebell Clean,Gymnastics,Cardio,Resistance Band,Core,Stretch,"Glutes, Hamstrings",Stretch before and after this exercise for better mobility and recovery.
+252,Landmine Squats,Conditioning,Warm-up,Resistance Band,Lower body,Push,"Lats, Biceps","Focus on controlling the movement to avoid injury, especially when using heavy weights."
+253,Rope Climbs with Legs,Olympic Weightlifting,Mobility,Pull-up Bar,Lower body,Stretch,"Chest, Triceps","Focus on controlling the movement to avoid injury, especially when using heavy weights."
+254,Lateral Box Jumps,Crossfit,Cardio,Bodyweight,Lower body,Push,"Lower Back, Core","Focus on controlling the movement to avoid injury, especially when using heavy weights."
+255,Turkish Sit-Up,Olympic Weightlifting,Warm-up,Pull-up Bar,Lower body,Push,"Biceps, Shoulders",Warm-up adequately before performing this exercise to prevent injury.
+256,Prowler Push,Crossfit,Mobility,Pull-up Bar,Upper body,Push,"Upper Chest, Shoulders",Maintain a strong core throughout the exercise for better stability.
+257,Axle Bar Deadlift,Strength,Strength,Bodyweight,Upper body,Pull,"Quads, Glutes",Keep your back straight and hinge at the hips for proper form.
+258,Man Makers,Aerobic Body Building,Cardio,Medicine Ball,Upper body,Stretch,"Shoulders, Triceps",Perform the movement with a full range of motion while maintaining proper posture.
+259,Ring Rows,Conditioning,Warm-up,Bodyweight,Full body,Push,"Biceps, Shoulders","Make sure to use explosive power when needed, especially for dynamic exercises."
+260,Rowing,Crossfit,Cardio,Barbell,Full body,Stretch,"Chest, Triceps",Stretch before and after this exercise for better mobility and recovery.
+261,Pull-ups,Crossfit,Mobility,Resistance Band,Core,Pull,"Core, Shoulders","Focus on controlling the movement to avoid injury, especially when using heavy weights."
+262,Floor Press,Olympic Weightlifting,Warm-up,Barbell,Lower body,Push,"Upper Chest, Shoulders",Perform the movement with a full range of motion while maintaining proper posture.
+263,Strict L-Sit Pull-Ups,Conditioning,Cardio,Dumbbells,Lower body,Hold,"Lower Back, Core",Stretch before and after this exercise for better mobility and recovery.
+264,Thrusters,Strength,Cardio,Resistance Band,Upper body,Stretch,"Shoulders, Triceps",Keep your back straight and hinge at the hips for proper form.
+265,Scapular Push-Ups,Conditioning,Mobility,Kettlebell,Full body,Pull,"Quads, Glutes",Start with a lighter weight or progression if you're new to this exercise.
+266,Weighted Step-Ups,Aerobic Body Building,Mobility,Kettlebell,Lower body,Stretch,"Chest, Triceps","Ensure your breathing is controlled, exhaling during the exertion phase."
+267,Banded Squat Jumps,Gymnastics,Mobility,Barbell,Lower body,Hold,"Upper Chest, Shoulders",Perform the movement with a full range of motion while maintaining proper posture.
+268,Seated Kettlebell Press,Aerobic Body Building,Warm-up,Pull-up Bar,Lower body,Pull,"Hamstrings, Glutes",Start with a lighter weight or progression if you're new to this exercise.
+269,Weighted Pull-Up,Gymnastics,Warm-up,Dumbbells,Core,Hold,"Glutes, Hamstrings",Warm-up adequately before performing this exercise to prevent injury.
+270,Rope Climbs with Legs,Aerobic Body Building,Mobility,Kettlebell,Full body,Hold,"Glutes, Hamstrings",Keep your back straight and hinge at the hips for proper form.
+271,Overhead Lunges,Aerobic Body Building,Strength,Kettlebell,Upper body,Hold,"Shoulders, Triceps","Make sure to use explosive power when needed, especially for dynamic exercises."
+272,Hang Power Clean,Aerobic Body Building,Warm-up,Pull-up Bar,Upper body,Stretch,"Hamstrings, Glutes",Stretch before and after this exercise for better mobility and recovery.
+273,Box Thrusters,Olympic Weightlifting,Cardio,Kettlebell,Full body,Hold,"Hamstrings, Glutes","Focus on controlling the movement to avoid injury, especially when using heavy weights."
+274,Alternating Dumbbell Snatch,Strength,Cardio,Bodyweight,Core,Stretch,"Glutes, Hamstrings",Warm-up adequately before performing this exercise to prevent injury.
+275,Double KB Deadlift,Aerobic Body Building,Warm-up,Kettlebell,Full body,Pull,"Core, Shoulders","Ensure your breathing is controlled, exhaling during the exertion phase."
+276,Bear Crawl,Conditioning,Strength,Pull-up Bar,Core,Push,"Lats, Biceps",Maintain a strong core throughout the exercise for better stability.
+277,Box Handstand Push-Up,Olympic Weightlifting,Strength,Barbell,Full body,Stretch,"Hamstrings, Glutes",Keep your back straight and hinge at the hips for proper form.
+278,Front Squat,Conditioning,Cardio,Kettlebell,Core,Hold,"Biceps, Shoulders",Start with a lighter weight or progression if you're new to this exercise.
+279,Plank Hold,Conditioning,Strength,Kettlebell,Upper body,Hold,"Shoulders, Triceps",Start with a lighter weight or progression if you're new to this exercise.
+280,V-Bar Pull-Ups,Crossfit,Cardio,Pull-up Bar,Core,Hold,"Shoulders, Triceps",Perform the movement with a full range of motion while maintaining proper posture.
+281,Dumbbell Bench Press,Crossfit,Strength,Bodyweight,Full body,Hold,"Chest, Triceps","Focus on controlling the movement to avoid injury, especially when using heavy weights."
+282,Hollow Rock,Crossfit,Strength,Pull-up Bar,Core,Hold,"Quads, Glutes",Start with a lighter weight or progression if you're new to this exercise.
+283,Strict Handstand Push-Up,Strength,Cardio,Medicine Ball,Core,Stretch,"Upper Chest, Shoulders","Make sure to use explosive power when needed, especially for dynamic exercises."
+284,Kettlebell Figure 8,Olympic Weightlifting,Mobility,Bodyweight,Core,Pull,"Quads, Glutes",Warm-up adequately before performing this exercise to prevent injury.
+285,Sumo Deadlift,Conditioning,Mobility,Pull-up Bar,Lower body,Push,"Upper Chest, Shoulders","Focus on controlling the movement to avoid injury, especially when using heavy weights."
+286,Dragon Flags,Crossfit,Mobility,Kettlebell,Core,Stretch,"Upper Chest, Shoulders","Make sure to use explosive power when needed, especially for dynamic exercises."
+287,Inverted Shoulder Press,Strength,Strength,Medicine Ball,Upper body,Pull,"Upper Chest, Shoulders",Perform the movement with a full range of motion while maintaining proper posture.
+288,Superman Hold,Crossfit,Cardio,Bodyweight,Full body,Stretch,"Upper Chest, Shoulders","Focus on controlling the movement to avoid injury, especially when using heavy weights."
+289,Broad Jump Burpees,Conditioning,Strength,Resistance Band,Full body,Hold,"Upper Chest, Shoulders",Perform the movement with a full range of motion while maintaining proper posture.
+290,Weighted Wall Balls,Gymnastics,Mobility,Dumbbells,Core,Push,"Lats, Biceps",Start with a lighter weight or progression if you're new to this exercise.
+291,Strict Press,Olympic Weightlifting,Mobility,Kettlebell,Upper body,Hold,"Hamstrings, Glutes","Focus on controlling the movement to avoid injury, especially when using heavy weights."
+292,Scapular Pull-Up,Strength,Warm-up,Medicine Ball,Full body,Stretch,"Quads, Glutes",Maintain a strong core throughout the exercise for better stability.
+293,High Pull,Gymnastics,Cardio,Bodyweight,Lower body,Pull,"Hamstrings, Glutes",Start with a lighter weight or progression if you're new to this exercise.
+294,Hang Power Clean,Gymnastics,Warm-up,Barbell,Lower body,Push,"Hamstrings, Glutes",Keep your back straight and hinge at the hips for proper form.
+295,Explosive Push-Ups,Gymnastics,Warm-up,Kettlebell,Core,Hold,"Hamstrings, Glutes",Keep your back straight and hinge at the hips for proper form.
+296,Burpee Box Jumps,Crossfit,Warm-up,Kettlebell,Core,Push,"Upper Chest, Shoulders",Keep your back straight and hinge at the hips for proper form.
+297,Single Arm Kettlebell Swings,Conditioning,Cardio,Pull-up Bar,Lower body,Hold,"Lower Back, Core",Start with a lighter weight or progression if you're new to this exercise.
+298,L-Sit Hold,Crossfit,Cardio,Medicine Ball,Upper body,Hold,"Quads, Glutes",Warm-up adequately before performing this exercise to prevent injury.
+299,Prowler Push,Crossfit,Warm-up,Dumbbells,Full body,Pull,"Upper Chest, Shoulders",Perform the movement with a full range of motion while maintaining proper posture.
+300,Push Press,Olympic Weightlifting,Warm-up,Resistance Band,Full body,Push,"Lats, Biceps","Ensure your breathing is controlled, exhaling during the exertion phase."
+301,Decline Push-Ups,Conditioning,Strength,Dumbbells,Full body,Push,"Quads, Glutes",Perform the movement with a full range of motion while maintaining proper posture.
+302,Flutter Kicks,Gymnastics,Warm-up,Dumbbells,Upper body,Hold,"Core, Shoulders",Keep your back straight and hinge at the hips for proper form.
+303,Box Thrusters,Gymnastics,Cardio,Kettlebell,Full body,Push,"Upper Chest, Shoulders",Start with a lighter weight or progression if you're new to this exercise.
+304,One Arm Overhead Squat,Aerobic Body Building,Cardio,Resistance Band,Lower body,Hold,"Upper Chest, Shoulders",Start with a lighter weight or progression if you're new to this exercise.
+305,Flutter Kicks,Olympic Weightlifting,Mobility,Dumbbells,Full body,Pull,"Hamstrings, Glutes","Make sure to use explosive power when needed, especially for dynamic exercises."
+306,Lateral Kettlebell Swing,Strength,Cardio,Barbell,Core,Stretch,"Hamstrings, Glutes","Focus on controlling the movement to avoid injury, especially when using heavy weights."
+307,Jump Rope,Aerobic Body Building,Strength,Medicine Ball,Lower body,Push,"Lower Back, Core",Start with a lighter weight or progression if you're new to this exercise.
+308,Decline Push-Ups,Olympic Weightlifting,Strength,Kettlebell,Core,Push,"Chest, Triceps","Ensure your breathing is controlled, exhaling during the exertion phase."
+309,Landmine Squats,Gymnastics,Cardio,Medicine Ball,Core,Pull,"Quads, Glutes",Stretch before and after this exercise for better mobility and recovery.
+310,Lunges,Gymnastics,Cardio,Medicine Ball,Lower body,Hold,"Lats, Biceps",Stretch before and after this exercise for better mobility and recovery.
+311,GHD Sit-ups,Aerobic Body Building,Mobility,Pull-up Bar,Lower body,Push,"Core, Shoulders",Warm-up adequately before performing this exercise to prevent injury.
+312,Rope Slams,Conditioning,Warm-up,Pull-up Bar,Upper body,Hold,"Glutes, Hamstrings","Focus on controlling the movement to avoid injury, especially when using heavy weights."
+313,Landmine Squats,Conditioning,Strength,Resistance Band,Full body,Stretch,"Quads, Glutes","Ensure your breathing is controlled, exhaling during the exertion phase."
+314,Incline Push-Ups,Olympic Weightlifting,Mobility,Dumbbells,Core,Stretch,"Upper Chest, Shoulders",Stretch before and after this exercise for better mobility and recovery.
+315,Rope Climbs with Legs,Strength,Strength,Bodyweight,Full body,Push,"Lats, Biceps",Maintain a strong core throughout the exercise for better stability.
+316,Superman Hold,Crossfit,Warm-up,Resistance Band,Core,Push,"Hamstrings, Glutes","Make sure to use explosive power when needed, especially for dynamic exercises."
+317,Worm Pull,Strength,Strength,Bodyweight,Core,Stretch,"Upper Chest, Shoulders",Maintain a strong core throughout the exercise for better stability.
+318,Rope Climbs with Legs,Olympic Weightlifting,Mobility,Barbell,Core,Hold,"Lower Back, Core",Perform the movement with a full range of motion while maintaining proper posture.
+319,Banded Good Mornings,Strength,Cardio,Dumbbells,Lower body,Hold,"Glutes, Hamstrings",Keep your back straight and hinge at the hips for proper form.
+320,Split Snatch,Gymnastics,Cardio,Resistance Band,Core,Push,"Quads, Glutes","Ensure your breathing is controlled, exhaling during the exertion phase."
+321,Pistol Hold,Aerobic Body Building,Strength,Barbell,Lower body,Hold,"Lats, Biceps",Warm-up adequately before performing this exercise to prevent injury.
+322,Sled Push,Gymnastics,Strength,Dumbbells,Upper body,Hold,"Quads, Glutes","Ensure your breathing is controlled, exhaling during the exertion phase."
+323,Floor Press,Gymnastics,Strength,Bodyweight,Lower body,Pull,"Chest, Triceps",Warm-up adequately before performing this exercise to prevent injury.
+324,Cleans,Strength,Warm-up,Pull-up Bar,Lower body,Stretch,"Shoulders, Triceps",Maintain a strong core throughout the exercise for better stability.
+325,Step-Ups,Crossfit,Strength,Resistance Band,Full body,Push,"Core, Shoulders","Focus on controlling the movement to avoid injury, especially when using heavy weights."
+326,Box Thrusters,Strength,Mobility,Kettlebell,Full body,Pull,"Upper Chest, Shoulders",Stretch before and after this exercise for better mobility and recovery.
+327,Ring Muscle-Ups,Olympic Weightlifting,Cardio,Kettlebell,Upper body,Stretch,"Upper Chest, Shoulders","Ensure your breathing is controlled, exhaling during the exertion phase."
+328,Barbell Lunges,Strength,Cardio,Barbell,Core,Pull,"Glutes, Hamstrings",Start with a lighter weight or progression if you're new to this exercise.
+329,Farmer Walk with Dumbbells,Strength,Cardio,Bodyweight,Core,Pull,"Upper Chest, Shoulders",Maintain a strong core throughout the exercise for better stability.
+330,Weighted Roll-Outs,Crossfit,Warm-up,Barbell,Full body,Stretch,"Core, Shoulders",Perform the movement with a full range of motion while maintaining proper posture.
+331,Weighted Roll-Outs,Gymnastics,Cardio,Pull-up Bar,Upper body,Pull,"Core, Shoulders",Stretch before and after this exercise for better mobility and recovery.
+332,Strict Press,Crossfit,Warm-up,Pull-up Bar,Core,Stretch,"Shoulders, Triceps","Make sure to use explosive power when needed, especially for dynamic exercises."
+333,Dumbbell Snatch,Conditioning,Warm-up,Barbell,Core,Push,"Biceps, Shoulders","Make sure to use explosive power when needed, especially for dynamic exercises."
+334,Bench Press,Gymnastics,Mobility,Kettlebell,Upper body,Push,"Chest, Triceps",Start with a lighter weight or progression if you're new to this exercise.
+335,Hollow Rock,Olympic Weightlifting,Warm-up,Bodyweight,Full body,Pull,"Chest, Triceps","Ensure your breathing is controlled, exhaling during the exertion phase."
+336,Kettlebell Windmill,Strength,Mobility,Kettlebell,Full body,Push,"Shoulders, Triceps",Keep your back straight and hinge at the hips for proper form.
+337,Straight Leg Deadlift,Gymnastics,Warm-up,Barbell,Lower body,Pull,"Lats, Biceps",Keep your back straight and hinge at the hips for proper form.
+338,Single Arm Snatch,Strength,Cardio,Pull-up Bar,Upper body,Hold,"Upper Chest, Shoulders",Stretch before and after this exercise for better mobility and recovery.
+339,Sandbag Carry,Olympic Weightlifting,Warm-up,Bodyweight,Lower body,Hold,"Upper Chest, Shoulders",Maintain a strong core throughout the exercise for better stability.
+340,Prowler Push,Gymnastics,Strength,Bodyweight,Full body,Push,"Lower Back, Core",Stretch before and after this exercise for better mobility and recovery.
+341,Broad Jump Burpees,Gymnastics,Mobility,Barbell,Upper body,Stretch,"Upper Chest, Shoulders",Stretch before and after this exercise for better mobility and recovery.
+342,Kettlebell Snatch,Aerobic Body Building,Cardio,Dumbbells,Full body,Stretch,"Quads, Glutes",Maintain a strong core throughout the exercise for better stability.
+343,Reverse Lunges,Strength,Strength,Bodyweight,Lower body,Pull,"Core, Shoulders","Focus on controlling the movement to avoid injury, especially when using heavy weights."
+344,Push-Up Rows,Strength,Mobility,Kettlebell,Full body,Hold,"Chest, Triceps",Stretch before and after this exercise for better mobility and recovery.
+345,Rowing,Strength,Cardio,Dumbbells,Upper body,Stretch,"Glutes, Hamstrings","Focus on controlling the movement to avoid injury, especially when using heavy weights."
+346,Ski Erg Sprints,Aerobic Body Building,Cardio,Medicine Ball,Upper body,Stretch,"Core, Shoulders",Perform the movement with a full range of motion while maintaining proper posture.
+347,Behind the Neck Jerk,Crossfit,Mobility,Dumbbells,Full body,Stretch,"Quads, Glutes",Perform the movement with a full range of motion while maintaining proper posture.
+348,Reverse Lunges,Gymnastics,Mobility,Barbell,Upper body,Stretch,"Shoulders, Triceps","Ensure your breathing is controlled, exhaling during the exertion phase."
+349,Prowler Push/Pull,Olympic Weightlifting,Cardio,Bodyweight,Lower body,Stretch,"Lower Back, Core",Perform the movement with a full range of motion while maintaining proper posture.
+350,Pallof Press,Conditioning,Warm-up,Pull-up Bar,Upper body,Push,"Lats, Biceps",Maintain a strong core throughout the exercise for better stability.
+351,Plank,Olympic Weightlifting,Mobility,Dumbbells,Full body,Pull,"Chest, Triceps","Ensure your breathing is controlled, exhaling during the exertion phase."
+352,Push-Up Rows,Crossfit,Strength,Bodyweight,Core,Push,"Lower Back, Core",Keep your back straight and hinge at the hips for proper form.
+353,Goblet Squat,Olympic Weightlifting,Strength,Barbell,Core,Stretch,"Chest, Triceps",Maintain a strong core throughout the exercise for better stability.
+354,Single Arm Ring Row,Olympic Weightlifting,Strength,Medicine Ball,Upper body,Hold,"Glutes, Hamstrings","Focus on controlling the movement to avoid injury, especially when using heavy weights."
+355,Dumbbell Power Clean,Gymnastics,Warm-up,Barbell,Full body,Stretch,"Upper Chest, Shoulders",Warm-up adequately before performing this exercise to prevent injury.
+356,Weighted Sit-Ups,Aerobic Body Building,Cardio,Bodyweight,Upper body,Pull,"Glutes, Hamstrings","Ensure your breathing is controlled, exhaling during the exertion phase."
+357,Double Unders,Aerobic Body Building,Warm-up,Resistance Band,Upper body,Pull,"Chest, Triceps",Stretch before and after this exercise for better mobility and recovery.
+358,Russian Kettlebell Swing,Conditioning,Mobility,Barbell,Full body,Pull,"Lower Back, Core",Perform the movement with a full range of motion while maintaining proper posture.
+359,Kettlebell Turkish Get-Up,Aerobic Body Building,Warm-up,Medicine Ball,Lower body,Stretch,"Glutes, Hamstrings",Warm-up adequately before performing this exercise to prevent injury.
+360,Hollow Rock,Aerobic Body Building,Mobility,Dumbbells,Upper body,Hold,"Quads, Glutes",Warm-up adequately before performing this exercise to prevent injury.
+361,Clean and Jerk,Olympic Weightlifting,Mobility,Medicine Ball,Upper body,Hold,"Quads, Glutes","Focus on controlling the movement to avoid injury, especially when using heavy weights."
+362,Hang Cleans,Gymnastics,Mobility,Pull-up Bar,Full body,Hold,"Upper Chest, Shoulders",Warm-up adequately before performing this exercise to prevent injury.
+363,Rope Climbs with Holds,Strength,Cardio,Barbell,Upper body,Hold,"Quads, Glutes",Perform the movement with a full range of motion while maintaining proper posture.
+364,Push Press,Gymnastics,Warm-up,Barbell,Core,Stretch,"Upper Chest, Shoulders",Start with a lighter weight or progression if you're new to this exercise.
+365,Hollow Body Hold,Aerobic Body Building,Strength,Bodyweight,Upper body,Pull,"Chest, Triceps",Warm-up adequately before performing this exercise to prevent injury.
+366,Banded Good Mornings,Olympic Weightlifting,Warm-up,Barbell,Upper body,Push,"Hamstrings, Glutes","Focus on controlling the movement to avoid injury, especially when using heavy weights."
+367,Inverted Shoulder Press,Gymnastics,Warm-up,Barbell,Full body,Push,"Lower Back, Core","Make sure to use explosive power when needed, especially for dynamic exercises."
+368,Side Plank Hold,Aerobic Body Building,Mobility,Bodyweight,Full body,Push,"Quads, Glutes",Keep your back straight and hinge at the hips for proper form.
+369,Deadstop Deadlifts,Aerobic Body Building,Warm-up,Medicine Ball,Full body,Push,"Shoulders, Triceps",Warm-up adequately before performing this exercise to prevent injury.
+370,One-Legged Deadlift,Conditioning,Strength,Barbell,Upper body,Stretch,"Chest, Triceps",Stretch before and after this exercise for better mobility and recovery.
+371,Axle Bar Deadlift,Crossfit,Strength,Medicine Ball,Core,Push,"Biceps, Shoulders",Maintain a strong core throughout the exercise for better stability.
+372,Bar Muscle-Ups,Strength,Mobility,Kettlebell,Full body,Stretch,"Lower Back, Core",Stretch before and after this exercise for better mobility and recovery.
+373,Goblet Squat,Olympic Weightlifting,Mobility,Medicine Ball,Upper body,Hold,"Lats, Biceps","Make sure to use explosive power when needed, especially for dynamic exercises."
+374,Pistol Hold,Gymnastics,Cardio,Medicine Ball,Lower body,Pull,"Chest, Triceps",Keep your back straight and hinge at the hips for proper form.
+375,Kettlebell Swings,Olympic Weightlifting,Mobility,Bodyweight,Core,Stretch,"Upper Chest, Shoulders",Perform the movement with a full range of motion while maintaining proper posture.
+376,Behind the Neck Jerk,Strength,Cardio,Kettlebell,Core,Stretch,"Biceps, Shoulders",Keep your back straight and hinge at the hips for proper form.
+377,Bear Crawl,Crossfit,Strength,Kettlebell,Full body,Pull,"Chest, Triceps",Maintain a strong core throughout the exercise for better stability.
+378,Decline Push-Ups,Gymnastics,Mobility,Dumbbells,Full body,Stretch,"Upper Chest, Shoulders",Stretch before and after this exercise for better mobility and recovery.
+379,Overhead Lunges,Crossfit,Warm-up,Bodyweight,Core,Hold,"Shoulders, Triceps","Ensure your breathing is controlled, exhaling during the exertion phase."
+380,Overhead Kettlebell Squats,Olympic Weightlifting,Cardio,Barbell,Lower body,Stretch,"Lats, Biceps",Keep your back straight and hinge at the hips for proper form.
+381,Jumping Lunges,Olympic Weightlifting,Warm-up,Medicine Ball,Core,Hold,"Core, Shoulders","Ensure your breathing is controlled, exhaling during the exertion phase."
+382,Bulgarian Split Squats,Conditioning,Warm-up,Medicine Ball,Lower body,Push,"Hamstrings, Glutes",Stretch before and after this exercise for better mobility and recovery.
+383,Wall Sits,Crossfit,Warm-up,Pull-up Bar,Lower body,Push,"Biceps, Shoulders",Maintain a strong core throughout the exercise for better stability.
+384,Renegade Rows,Conditioning,Warm-up,Bodyweight,Lower body,Stretch,"Glutes, Hamstrings",Start with a lighter weight or progression if you're new to this exercise.
+385,Double KB Deadlift,Conditioning,Cardio,Barbell,Lower body,Hold,"Biceps, Shoulders",Start with a lighter weight or progression if you're new to this exercise.
+386,Seated Kettlebell Press,Olympic Weightlifting,Cardio,Bodyweight,Upper body,Hold,"Lats, Biceps",Perform the movement with a full range of motion while maintaining proper posture.
+387,Sled Pull,Crossfit,Cardio,Barbell,Full body,Stretch,"Quads, Glutes",Stretch before and after this exercise for better mobility and recovery.
+388,Clapping Push-Ups,Gymnastics,Cardio,Resistance Band,Upper body,Stretch,"Upper Chest, Shoulders",Warm-up adequately before performing this exercise to prevent injury.
+389,Scapular Pull-Up,Gymnastics,Strength,Barbell,Upper body,Stretch,"Core, Shoulders","Make sure to use explosive power when needed, especially for dynamic exercises."
+390,Weighted Step-Ups,Strength,Strength,Barbell,Full body,Push,"Core, Shoulders",Start with a lighter weight or progression if you're new to this exercise.
+391,Deadlift,Olympic Weightlifting,Warm-up,Dumbbells,Full body,Pull,"Core, Shoulders",Perform the movement with a full range of motion while maintaining proper posture.
+392,Strict Ring Muscle-Ups,Aerobic Body Building,Mobility,Barbell,Full body,Stretch,"Shoulders, Triceps",Maintain a strong core throughout the exercise for better stability.
+393,Kettlebell Snatch,Crossfit,Cardio,Medicine Ball,Full body,Push,"Core, Shoulders","Focus on controlling the movement to avoid injury, especially when using heavy weights."
+394,Ski Erg Sprints,Aerobic Body Building,Mobility,Bodyweight,Upper body,Pull,"Quads, Glutes",Stretch before and after this exercise for better mobility and recovery.
+395,Overhead Press,Gymnastics,Cardio,Medicine Ball,Lower body,Pull,"Core, Shoulders",Start with a lighter weight or progression if you're new to this exercise.
+396,Ski Erg Sprints,Conditioning,Strength,Medicine Ball,Upper body,Hold,"Lats, Biceps",Perform the movement with a full range of motion while maintaining proper posture.
+397,Goblet Squat,Olympic Weightlifting,Strength,Bodyweight,Full body,Pull,"Lower Back, Core",Perform the movement with a full range of motion while maintaining proper posture.
+398,Dumbbell Power Clean,Crossfit,Cardio,Pull-up Bar,Upper body,Hold,"Biceps, Shoulders",Keep your back straight and hinge at the hips for proper form.
+399,Scapular Push-Ups,Aerobic Body Building,Warm-up,Bodyweight,Full body,Stretch,"Lower Back, Core","Make sure to use explosive power when needed, especially for dynamic exercises."
+400,Dumbbell Walking Lunge,Crossfit,Mobility,Resistance Band,Lower body,Push,"Biceps, Shoulders","Focus on controlling the movement to avoid injury, especially when using heavy weights."
+401,Deficit Push-Ups,Conditioning,Strength,Pull-up Bar,Upper body,Push,"Hamstrings, Glutes",Stretch before and after this exercise for better mobility and recovery.
+402,Man Makers,Crossfit,Mobility,Dumbbells,Upper body,Pull,"Upper Chest, Shoulders",Perform the movement with a full range of motion while maintaining proper posture.
+403,Plank,Gymnastics,Cardio,Medicine Ball,Core,Pull,"Lats, Biceps",Stretch before and after this exercise for better mobility and recovery.
+404,Barbell Thruster,Olympic Weightlifting,Warm-up,Pull-up Bar,Full body,Pull,"Biceps, Shoulders","Focus on controlling the movement to avoid injury, especially when using heavy weights."
+405,Jumping Pull-Ups,Olympic Weightlifting,Mobility,Pull-up Bar,Core,Stretch,"Hamstrings, Glutes","Ensure your breathing is controlled, exhaling during the exertion phase."
+406,Dumbbell Bench Press,Crossfit,Strength,Bodyweight,Upper body,Hold,"Shoulders, Triceps","Focus on controlling the movement to avoid injury, especially when using heavy weights."
+407,Jump Rope,Conditioning,Mobility,Medicine Ball,Full body,Stretch,"Glutes, Hamstrings",Maintain a strong core throughout the exercise for better stability.
+408,Kettlebell Snatch,Olympic Weightlifting,Cardio,Pull-up Bar,Lower body,Stretch,"Lats, Biceps","Focus on controlling the movement to avoid injury, especially when using heavy weights."
+409,Lateral Box Jumps,Strength,Cardio,Resistance Band,Full body,Push,"Upper Chest, Shoulders",Keep your back straight and hinge at the hips for proper form.
+410,Hang Power Clean,Aerobic Body Building,Strength,Bodyweight,Upper body,Pull,"Hamstrings, Glutes",Warm-up adequately before performing this exercise to prevent injury.
+411,Overhead Squat,Olympic Weightlifting,Warm-up,Dumbbells,Upper body,Stretch,"Lats, Biceps","Make sure to use explosive power when needed, especially for dynamic exercises."
+412,Kettlebell Swings,Olympic Weightlifting,Warm-up,Resistance Band,Full body,Stretch,"Biceps, Shoulders",Keep your back straight and hinge at the hips for proper form.
+413,Weighted Wall Balls,Conditioning,Strength,Bodyweight,Core,Push,"Hamstrings, Glutes",Keep your back straight and hinge at the hips for proper form.
+414,Lunge Twists,Gymnastics,Strength,Medicine Ball,Core,Stretch,"Hamstrings, Glutes",Maintain a strong core throughout the exercise for better stability.
+415,Sumo Deadlift,Aerobic Body Building,Mobility,Resistance Band,Upper body,Pull,"Shoulders, Triceps",Warm-up adequately before performing this exercise to prevent injury.
+416,Lunges,Crossfit,Cardio,Kettlebell,Full body,Stretch,"Shoulders, Triceps","Ensure your breathing is controlled, exhaling during the exertion phase."
+417,Superman Hold,Gymnastics,Strength,Barbell,Upper body,Hold,"Biceps, Shoulders","Focus on controlling the movement to avoid injury, especially when using heavy weights."
+418,Front Squat,Aerobic Body Building,Strength,Resistance Band,Upper body,Hold,"Shoulders, Triceps",Stretch before and after this exercise for better mobility and recovery.
+419,Bench Press,Olympic Weightlifting,Warm-up,Bodyweight,Core,Push,"Glutes, Hamstrings","Ensure your breathing is controlled, exhaling during the exertion phase."
+420,Weighted Overhead Lunges,Gymnastics,Cardio,Medicine Ball,Full body,Stretch,"Chest, Triceps",Stretch before and after this exercise for better mobility and recovery.
+421,Mountain Climbers,Conditioning,Mobility,Medicine Ball,Core,Stretch,"Core, Shoulders","Focus on controlling the movement to avoid injury, especially when using heavy weights."
+422,V-Ups,Crossfit,Cardio,Bodyweight,Full body,Hold,"Quads, Glutes",Stretch before and after this exercise for better mobility and recovery.
+423,Bottom-Up Kettlebell Press,Crossfit,Cardio,Barbell,Full body,Push,"Hamstrings, Glutes",Keep your back straight and hinge at the hips for proper form.
+424,Wall Balls,Gymnastics,Strength,Medicine Ball,Lower body,Pull,"Lats, Biceps","Make sure to use explosive power when needed, especially for dynamic exercises."
+425,Ring Rows,Olympic Weightlifting,Cardio,Pull-up Bar,Core,Pull,"Shoulders, Triceps","Ensure your breathing is controlled, exhaling during the exertion phase."
+426,Legless Rope Climb,Crossfit,Strength,Resistance Band,Full body,Hold,"Lats, Biceps",Maintain a strong core throughout the exercise for better stability.
+427,Hollow Body Hold,Olympic Weightlifting,Mobility,Bodyweight,Lower body,Push,"Lats, Biceps","Focus on controlling the movement to avoid injury, especially when using heavy weights."
+428,Barbell Thruster,Aerobic Body Building,Strength,Pull-up Bar,Upper body,Stretch,"Core, Shoulders","Ensure your breathing is controlled, exhaling during the exertion phase."
+429,Dumbbell Thrusters,Aerobic Body Building,Warm-up,Barbell,Core,Pull,"Lats, Biceps",Stretch before and after this exercise for better mobility and recovery.
+430,Lateral Kettlebell Swing,Olympic Weightlifting,Strength,Resistance Band,Full body,Pull,"Lower Back, Core",Perform the movement with a full range of motion while maintaining proper posture.
+431,Flutter Kicks,Crossfit,Warm-up,Barbell,Upper body,Push,"Chest, Triceps",Stretch before and after this exercise for better mobility and recovery.
+432,Bear Crawl Drags,Gymnastics,Cardio,Kettlebell,Full body,Stretch,"Lower Back, Core","Make sure to use explosive power when needed, especially for dynamic exercises."
+433,Single Arm Ring Row,Crossfit,Strength,Barbell,Lower body,Push,"Upper Chest, Shoulders","Ensure your breathing is controlled, exhaling during the exertion phase."
+434,Explosive Push-Ups,Strength,Warm-up,Dumbbells,Upper body,Push,"Lower Back, Core",Keep your back straight and hinge at the hips for proper form.
+435,Hang Power Snatch,Aerobic Body Building,Mobility,Resistance Band,Full body,Push,"Glutes, Hamstrings",Perform the movement with a full range of motion while maintaining proper posture.
+436,Reverse Hyper,Crossfit,Cardio,Pull-up Bar,Lower body,Push,"Lower Back, Core","Ensure your breathing is controlled, exhaling during the exertion phase."
+437,Pistol Squats,Aerobic Body Building,Warm-up,Resistance Band,Lower body,Stretch,"Hamstrings, Glutes",Start with a lighter weight or progression if you're new to this exercise.
+438,Lunges,Aerobic Body Building,Mobility,Dumbbells,Core,Push,"Core, Shoulders",Maintain a strong core throughout the exercise for better stability.
+439,Hollow Rock,Olympic Weightlifting,Warm-up,Medicine Ball,Core,Hold,"Upper Chest, Shoulders","Focus on controlling the movement to avoid injury, especially when using heavy weights."
+440,Rower Sprints,Strength,Strength,Dumbbells,Core,Hold,"Upper Chest, Shoulders","Focus on controlling the movement to avoid injury, especially when using heavy weights."
+441,Sandbag Squats,Strength,Warm-up,Medicine Ball,Upper body,Pull,"Quads, Glutes",Maintain a strong core throughout the exercise for better stability.
+442,Lateral Lunges,Strength,Mobility,Pull-up Bar,Full body,Stretch,"Shoulders, Triceps","Ensure your breathing is controlled, exhaling during the exertion phase."
+443,Jumping Lunges,Strength,Warm-up,Bodyweight,Full body,Stretch,"Core, Shoulders",Keep your back straight and hinge at the hips for proper form.
+444,Double Unders,Strength,Mobility,Kettlebell,Full body,Push,"Lats, Biceps","Focus on controlling the movement to avoid injury, especially when using heavy weights."
+445,Axle Bar Deadlift,Aerobic Body Building,Strength,Resistance Band,Lower body,Pull,"Core, Shoulders","Focus on controlling the movement to avoid injury, especially when using heavy weights."
+446,Power Jerk,Aerobic Body Building,Strength,Dumbbells,Core,Pull,"Hamstrings, Glutes",Start with a lighter weight or progression if you're new to this exercise.
+447,Sled Pull,Gymnastics,Cardio,Kettlebell,Upper body,Pull,"Chest, Triceps",Start with a lighter weight or progression if you're new to this exercise.
+448,High Pull,Gymnastics,Cardio,Pull-up Bar,Full body,Hold,"Chest, Triceps",Start with a lighter weight or progression if you're new to this exercise.
+449,Back Squat,Crossfit,Mobility,Medicine Ball,Upper body,Push,"Shoulders, Triceps","Make sure to use explosive power when needed, especially for dynamic exercises."
+450,Russian Twists,Crossfit,Warm-up,Bodyweight,Upper body,Stretch,"Core, Shoulders","Make sure to use explosive power when needed, especially for dynamic exercises."
+451,Single Arm Snatch,Aerobic Body Building,Cardio,Dumbbells,Core,Pull,"Biceps, Shoulders",Keep your back straight and hinge at the hips for proper form.
+452,Front Rack Lunge,Strength,Warm-up,Pull-up Bar,Core,Pull,"Upper Chest, Shoulders","Ensure your breathing is controlled, exhaling during the exertion phase."
+453,Explosive Push-Ups,Aerobic Body Building,Cardio,Medicine Ball,Full body,Pull,"Lower Back, Core",Warm-up adequately before performing this exercise to prevent injury.
+454,Scapular Pull-Up,Crossfit,Warm-up,Bodyweight,Full body,Stretch,"Chest, Triceps",Keep your back straight and hinge at the hips for proper form.
+455,Double KB Deadlift,Olympic Weightlifting,Warm-up,Medicine Ball,Core,Pull,"Quads, Glutes",Maintain a strong core throughout the exercise for better stability.
+456,Landmine Squats,Olympic Weightlifting,Mobility,Medicine Ball,Lower body,Pull,"Hamstrings, Glutes",Keep your back straight and hinge at the hips for proper form.
+457,Dumbbell Snatch,Strength,Strength,Barbell,Upper body,Push,"Glutes, Hamstrings","Make sure to use explosive power when needed, especially for dynamic exercises."
+458,Pallof Press,Gymnastics,Strength,Pull-up Bar,Core,Hold,"Chest, Triceps",Perform the movement with a full range of motion while maintaining proper posture.
+459,Single Arm Ring Row,Conditioning,Warm-up,Kettlebell,Core,Stretch,"Biceps, Shoulders","Ensure your breathing is controlled, exhaling during the exertion phase."
+460,Dumbbell Thrusters,Crossfit,Strength,Resistance Band,Lower body,Stretch,"Glutes, Hamstrings",Warm-up adequately before performing this exercise to prevent injury.
+461,Burpee Box Jumps,Strength,Cardio,Dumbbells,Core,Push,"Lats, Biceps","Make sure to use explosive power when needed, especially for dynamic exercises."
+462,Prowler Push/Pull,Gymnastics,Strength,Bodyweight,Full body,Stretch,"Lats, Biceps","Make sure to use explosive power when needed, especially for dynamic exercises."
+463,Hang Cleans,Olympic Weightlifting,Warm-up,Bodyweight,Full body,Push,"Lower Back, Core",Perform the movement with a full range of motion while maintaining proper posture.
+464,Handstand Push-ups,Aerobic Body Building,Mobility,Resistance Band,Core,Push,"Quads, Glutes",Maintain a strong core throughout the exercise for better stability.
+465,Sled Push,Conditioning,Cardio,Pull-up Bar,Lower body,Stretch,"Glutes, Hamstrings","Focus on controlling the movement to avoid injury, especially when using heavy weights."
+466,Hang Power Snatch,Crossfit,Strength,Pull-up Bar,Upper body,Pull,"Chest, Triceps",Stretch before and after this exercise for better mobility and recovery.
+467,Behind the Neck Jerk,Conditioning,Strength,Bodyweight,Full body,Pull,"Quads, Glutes",Start with a lighter weight or progression if you're new to this exercise.
+468,Burpees,Gymnastics,Warm-up,Pull-up Bar,Lower body,Stretch,"Glutes, Hamstrings","Focus on controlling the movement to avoid injury, especially when using heavy weights."
+469,Assault Bike,Conditioning,Strength,Bodyweight,Upper body,Hold,"Lats, Biceps","Focus on controlling the movement to avoid injury, especially when using heavy weights."
+470,Single Arm Ring Row,Conditioning,Mobility,Bodyweight,Full body,Push,"Upper Chest, Shoulders",Warm-up adequately before performing this exercise to prevent injury.
+471,Seated Kettlebell Press,Crossfit,Mobility,Barbell,Lower body,Push,"Biceps, Shoulders","Make sure to use explosive power when needed, especially for dynamic exercises."
+472,Dumbbell Windmills,Strength,Warm-up,Bodyweight,Lower body,Hold,"Upper Chest, Shoulders","Make sure to use explosive power when needed, especially for dynamic exercises."
+473,Handstand Hold,Aerobic Body Building,Mobility,Kettlebell,Full body,Pull,"Upper Chest, Shoulders",Stretch before and after this exercise for better mobility and recovery.
+474,V-Ups,Strength,Cardio,Bodyweight,Core,Push,"Biceps, Shoulders",Warm-up adequately before performing this exercise to prevent injury.
+475,Dumbbell Windmills,Gymnastics,Strength,Barbell,Upper body,Push,"Biceps, Shoulders",Start with a lighter weight or progression if you're new to this exercise.
+476,Zercher Squats,Aerobic Body Building,Mobility,Medicine Ball,Core,Stretch,"Quads, Glutes","Make sure to use explosive power when needed, especially for dynamic exercises."
+477,Weighted Pull-Up,Conditioning,Warm-up,Resistance Band,Upper body,Hold,"Quads, Glutes",Stretch before and after this exercise for better mobility and recovery.
+478,Prowler Push/Pull,Crossfit,Strength,Medicine Ball,Lower body,Hold,"Hamstrings, Glutes",Start with a lighter weight or progression if you're new to this exercise.
+479,Push-Up Rows,Strength,Mobility,Pull-up Bar,Upper body,Hold,"Hamstrings, Glutes",Warm-up adequately before performing this exercise to prevent injury.
+480,Incline Push-Ups,Strength,Mobility,Kettlebell,Upper body,Stretch,"Biceps, Shoulders",Start with a lighter weight or progression if you're new to this exercise.
+481,Overhead Carries,Strength,Warm-up,Bodyweight,Core,Hold,"Upper Chest, Shoulders",Maintain a strong core throughout the exercise for better stability.
+482,Sled Pull,Crossfit,Warm-up,Pull-up Bar,Lower body,Hold,"Hamstrings, Glutes",Keep your back straight and hinge at the hips for proper form.
+483,Barbell Thruster,Strength,Cardio,Bodyweight,Full body,Pull,"Chest, Triceps",Stretch before and after this exercise for better mobility and recovery.
+484,Cossack Squat,Crossfit,Warm-up,Pull-up Bar,Lower body,Pull,"Hamstrings, Glutes","Ensure your breathing is controlled, exhaling during the exertion phase."
+485,Mountain Climbers,Crossfit,Warm-up,Resistance Band,Upper body,Hold,"Quads, Glutes",Stretch before and after this exercise for better mobility and recovery.
+486,Zercher Squats,Strength,Cardio,Bodyweight,Upper body,Stretch,"Lower Back, Core","Make sure to use explosive power when needed, especially for dynamic exercises."
+487,Wall Balls,Conditioning,Mobility,Kettlebell,Core,Stretch,"Shoulders, Triceps",Keep your back straight and hinge at the hips for proper form.
+488,Strict Press,Conditioning,Warm-up,Dumbbells,Core,Stretch,"Chest, Triceps",Start with a lighter weight or progression if you're new to this exercise.
+489,Dragon Flags,Crossfit,Warm-up,Pull-up Bar,Full body,Hold,"Chest, Triceps",Warm-up adequately before performing this exercise to prevent injury.
+490,Overhead Kettlebell Carry,Strength,Cardio,Kettlebell,Full body,Hold,"Core, Shoulders",Perform the movement with a full range of motion while maintaining proper posture.
+491,Banded Tricep Pushdowns,Strength,Cardio,Bodyweight,Full body,Pull,"Hamstrings, Glutes",Perform the movement with a full range of motion while maintaining proper posture.
+492,Plank,Aerobic Body Building,Mobility,Bodyweight,Core,Stretch,"Shoulders, Triceps",Maintain a strong core throughout the exercise for better stability.
+493,Rope Climbs,Gymnastics,Cardio,Barbell,Full body,Push,"Core, Shoulders","Focus on controlling the movement to avoid injury, especially when using heavy weights."
+494,Zercher Squats,Olympic Weightlifting,Mobility,Medicine Ball,Full body,Push,"Glutes, Hamstrings",Perform the movement with a full range of motion while maintaining proper posture.
+495,Bear Crawl,Conditioning,Cardio,Barbell,Lower body,Push,"Shoulders, Triceps",Perform the movement with a full range of motion while maintaining proper posture.
+496,Jumping Pull-Ups,Conditioning,Mobility,Bodyweight,Upper body,Hold,"Shoulders, Triceps",Keep your back straight and hinge at the hips for proper form.
+497,Push Press,Conditioning,Warm-up,Resistance Band,Lower body,Pull,"Quads, Glutes","Make sure to use explosive power when needed, especially for dynamic exercises."
+498,Deficit Deadlift,Aerobic Body Building,Strength,Medicine Ball,Upper body,Stretch,"Lats, Biceps",Maintain a strong core throughout the exercise for better stability.
+499,Bear Crawl,Strength,Strength,Medicine Ball,Upper body,Stretch,"Glutes, Hamstrings",Stretch before and after this exercise for better mobility and recovery.
