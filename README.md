@@ -233,7 +233,8 @@ curl -X POST -H "Content-Type: application/json" -d "${DATA}" ${URL}/ask
 You will see something like the following in the response:
 
 ```json
-{"answer":"The main purpose of performing Glute-Ham Raises in your fitness routine is to activate and strengthen the Lower Back and Core muscle groups. This exercise can help enhance core stability and improve overall strength in these areas.","conversation_id":"541bd89c-1014-48e4-baa0-59df3a121432",
+{"answer":"The main purpose of performing Glute-Ham Raises in your fitness routine is to activate and strengthen the Lower Back and Core muscle groups. This exercise can help enhance core stability and improve overall strength in these areas.",
+"conversation_id":"541bd89c-1014-48e4-baa0-59df3a121432",
 "question":"What is the main purpose of performing Glute-Ham Raises in my fitness routine?"}
 ```
 <p align="center">
@@ -260,7 +261,7 @@ After sending it, you'll receive the acknowledgement:
 
 ```json
 {
-    "message": "Feedback received for conversation dfd4d2fa-0802-44be-929b-1e590fa3dcd2: 1"
+    "message": "Feedback received for conversation 541bd89c-1014-48e4-baa0-59df3a121432: 1"
 }
 ```
 
