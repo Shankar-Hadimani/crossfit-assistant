@@ -14,4 +14,11 @@ data = {"question": question}
 response = requests.post(url, json=data)
 # print(response.content)
 
-print(response.json())
+print("Response status code:", response.status_code)  # Check the status code
+print("Response content:", response.content)  # Print the raw content
+
+# Attempt to decode JSON if the response is OK
+if response.status_code == 200:
+    print(response.json())
+else:
+    print("Error:", response.status_code)

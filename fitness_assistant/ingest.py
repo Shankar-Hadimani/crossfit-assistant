@@ -6,6 +6,32 @@ from getpass import getpass
 import minsearch
 
 
+DATA_PATH = os.getenv("DATA_PATH", './data/crossfit_exercise_plan_01.csv')
+
+def load_index(path=DATA_PATH):
+     
+    df = pd.read_csv(path)
+    documents = df.to_dict(orient="records")
+    
+    index = minsearch.Index(
+        text_fields=[
+            'exercise_name', 
+            'session_name', 
+            'type_of_activity',
+            'type_of_equipment', 
+            'body_part', 
+            'type', 
+            'muscle_groups_activated',
+            'instructions'
+        ],
+        keyword_fields=[]
+    )
+
+    index.fit(docs=documents)
+    
+    return index
+
+
 # Function to check for blank or np.nan values in a list of dictionaries
 def check_for_blank_nan(input_list):
     if not isinstance(input_list, list):
@@ -29,27 +55,3 @@ def check_for_blank_nan(input_list):
             })
     
     return problematic_entries
-
-
-def load_index(path='../data/crossfit_exercise_plan_01.csv'):
-     
-    df = pd.read_csv(path)
-    documents = df.to_dict(orient="records")
-    
-    index = minsearch.Index(
-        text_fields=[
-            'exercise_name', 
-            'session_name', 
-            'type_of_activity',
-            'type_of_equipment', 
-            'body_part', 
-            'type', 
-            'muscle_groups_activated',
-            'instructions'
-        ],
-        keyword_fields=[]
-    )
-
-    index.fit(docs=documents)
-    
-    return index

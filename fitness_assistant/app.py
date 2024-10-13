@@ -1,18 +1,14 @@
 from flask import Flask, request, jsonify
+from dotenv import load_dotenv, find_dotenv
+from db import save_conversation, save_feedback
 from rag import rag
 import uuid
 import os
-from dotenv import load_dotenv
 
 # Load environment variables from .env file
-load_dotenv()
-openai_api_key = os.getenv('OPENAI_API_KEY')
-
+_ = load_dotenv(find_dotenv())
 
 app = Flask(__name__)
-
-# In-memory storage for simplicity (replace with DB later)
-conversations = {}
 
 @app.route('/ask', methods=['POST'])
 def ask_question():
@@ -23,17 +19,19 @@ def ask_question():
         return jsonify({"error": "No question provided"}), 400
 
     # Invoke RAG function
-    answer = rag(question)
+    answer_data = rag(question)
 
     # Generate unique conversation ID
     conversation_id = str(uuid.uuid4())
 
     # Store the conversation result
-    conversations[conversation_id] = {"question": question, "answer": answer}
+    save_conversation(conversation_id=conversation_id, 
+                      question=question, 
+                      answer_data=answer_data)
 
     return jsonify({"conversation_id": conversation_id,
                     "question" :question,
-                    "answer": answer})
+                    "answer": answer_data['answer']})
 
 
 @app.route('/feedback', methods=['POST'])
@@ -45,11 +43,9 @@ def submit_feedback():
     if not conversation_id or feedback not in [-1, 1]:
         return jsonify({"error": "Invalid conversation ID or feedback"}), 400
 
-    if conversation_id not in conversations:
-        return jsonify({"error": "Conversation not found"}), 404
 
-    # Placeholder: Acknowledge feedback (later, write this to a database)
-    # conversations[conversation_id]['feedback'] = feedback
+    # Save the feedback
+    save_feedback(conversation_id, feedback)
     
     result = {"message": "Feedback received", 
               "conversation_id": conversation_id,
